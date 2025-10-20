@@ -125,5 +125,4 @@ Philosophie: Warum raten, wann die nauticalDusk ist, wenn man es auch wissen kan
 
 Disclaimer: Für Fehler in der Himmelsmechanik oder falsche Sonnenzeiten aufgrund von Zeitzonenwechseln lehnen wir jede Verantwortung ab. Frag die Sonne, nicht den Coder! 🤪
 
-p align="center">
-  <img src="https://github.com/jogiesp/astrozeitbeam/blob/main/pic/astrozeit1.png?raw=true" alt="AstroZeit – Der verzweifelte Coder bei der Sonnenbeobachtung in Berlin" width="500"/>
+<img src="https://github.com/jogiesp/astrozeitbeam/blob/main/pic/astrozeit1.png?raw=true" width="200" alt="Astrozeit">
