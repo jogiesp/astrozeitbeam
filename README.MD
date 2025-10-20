@@ -115,6 +115,7 @@ for (let key in dpList) {
 
 // 8️⃣ Info in Log
 log('Sonnenzeiten wurden unter 0_userdata.0.sonnenzeit erstellt/aktualisiert.');
+```
 
 
 👨‍🔬 About: Der Schöpfer und das Chaos
@@ -125,4 +126,5 @@ Philosophie: Warum raten, wann die nauticalDusk ist, wenn man es auch wissen kan
 
 Disclaimer: Für Fehler in der Himmelsmechanik oder falsche Sonnenzeiten aufgrund von Zeitzonenwechseln lehnen wir jede Verantwortung ab. Frag die Sonne, nicht den Coder! 🤪
 
-<img src="https://github.com/jogiesp/astrozeitbeam/blob/main/pic/astrozeit1.png?raw=true" width="200" alt="Astrozeit">
+
+<img src="https://github.com/jogiesp/astrozeitbeam/blob/main/pic/astrozeit1.png?raw=true" width="400" alt="Astrozeit">
