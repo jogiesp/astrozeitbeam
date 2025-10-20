@@ -124,3 +124,6 @@ AstroZeit ist ein Nebenprodukt der verzweifelten Suche nach dem perfekten Moment
 Philosophie: Warum raten, wann die nauticalDusk ist, wenn man es auch wissen kann? Die Menschheit ist auf dem Mond gelandet – wir können auch die Dämmerung in einem iobroker-Datenpunkt erfassen!
 
 Disclaimer: Für Fehler in der Himmelsmechanik oder falsche Sonnenzeiten aufgrund von Zeitzonenwechseln lehnen wir jede Verantwortung ab. Frag die Sonne, nicht den Coder! 🤪
+
+p align="center">
+  <img src="https://github.com/jogiesp/astrozeitbeam/blob/main/pic/astrozeit1.png?raw=true" alt="AstroZeit – Der verzweifelte Coder bei der Sonnenbeobachtung in Berlin" width="500"/>
